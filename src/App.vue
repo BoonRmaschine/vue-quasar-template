@@ -82,7 +82,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue';
+import HelloWorld from '@boonrmaschine/vue-quasar-package-template';
 
 export default {
   name: 'LayoutDefault',
