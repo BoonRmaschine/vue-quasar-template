@@ -10,6 +10,7 @@
     "start": "npm run serve"
   },
   "dependencies": {
+    "@boonrmaschine/vue-quasar-package-template": "^0.1.0",
     "@quasar/extras": "^1.0.0",
     "core-js": "^3.4.4",
     "quasar": "^1.7.4",

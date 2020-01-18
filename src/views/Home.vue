@@ -7,7 +7,7 @@
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+import HelloWorld from '@boonrmaschine/vue-quasar-package-template';
 
 export default {
   name: 'home',
